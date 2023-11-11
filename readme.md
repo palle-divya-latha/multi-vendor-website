@@ -1,7 +1,7 @@
-MERN Stack Multi-Vendor-Website
+#MERN Stack Multi-Vendor-Website
 This is a fully functional multi-vendor-website built using the MERN stack (MongoDB, Express, React, Node.js) and Socket.io for real-time communication. The website allows users to browse products, add them to their cart, and checkout securely using Stripe payment gateway.
 
-Features
+##Features
 User authentication and authorization using JWT tokens
 Real-time communication using Socket.io
 Product search and filtering
@@ -11,7 +11,7 @@ Admin dashboard for managing products, orders, and users , analytics , chat, pro
 Technologies Used
 MongoDB Express.js React.js Node.js Socket.io.
 
-Installation
+##Installation
 Clone the repository
 Install dependencies using npm install on both
 Create a .env file in the root directory and add the following environment variables:
